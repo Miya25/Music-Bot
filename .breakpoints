@@ -1,0 +1,28 @@
+{
+  "files": {
+    "commands/Fun/pat.js": [
+      {
+        "id": "7b64fc14-41cf-4420-bee1-959119475422",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "commands/Music/join.js": [
+      {
+        "id": "e15f6161-c0e0-4039-b33c-a8e451d8c57d",
+        "line": 6,
+        "version": 25,
+        "index": 161
+      }
+    ],
+    "commands/music/loop.js": [
+      {
+        "id": "2e685449-4c2b-4686-a8cd-16993cd12105",
+        "line": 6,
+        "version": 1,
+        "index": 108
+      }
+    ]
+  }
+}
